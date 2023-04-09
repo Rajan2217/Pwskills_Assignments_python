@@ -1,0 +1,44 @@
+INFO:root:here inside the loop that need to append square of given range in square list
+INFO:root:here inside the loop that need to append cube of given range in cube_list
+INFO:root:here inside the loop that need to append square of given range in square list
+INFO:root:here inside the loop that need to append cube of given range in cube_list
+INFO:root:result for the first thread [0]
+INFO:root:here inside the loop that need to append square of given range in square list
+INFO:root:here inside the loop that need to append cube of given range in cube_list
+INFO:root:result for the second thread[0, 1]
+INFO:root:here inside the loop that need to append square of given range in square list
+INFO:root:here inside the loop that need to append cube of given range in cube_list
+INFO:root:here inside the loop that need to append square of given range in square list
+INFO:root:here inside the loop that need to append cube of given range in cube_list
+INFO:root:here inside the loop that need to append square of given range in square list
+INFO:root:here inside the loop that need to append cube of given range in cube_list
+INFO:root:here inside the loop that need to append square of given range in square list
+INFO:root:here inside the loop that need to append square of given range in square list
+INFO:root:here inside the loop that need to append square of given range in square list
+INFO:root:here inside the loop that need to append square of given range in square list
+INFO:root:here inside the loop that need to append cube of given range in cube_list
+INFO:root:here inside the loop that need to append cube of given range in cube_list
+INFO:root:here inside the loop that need to append cube of given range in cube_list
+INFO:root:here inside the loop that need to append cube of given range in cube_list
+INFO:root:here inside the loop that need to append square of given range in square list
+INFO:root:here inside the loop that need to append square of given range in square list
+INFO:root:here inside the loop that need to append square of given range in square list
+INFO:root:here inside the loop that need to append square of given range in square list
+INFO:root:here inside the loop that need to append square of given range in square list
+INFO:root:here inside the loop that need to append square of given range in square list
+INFO:root:here inside the loop that need to append square of given range in square list
+INFO:root:here inside the loop that need to append square of given range in square list
+INFO:root:here inside the loop that need to append square of given range in square list
+INFO:root:here inside the loop that need to append square of given range in square list
+INFO:root:here inside the loop that need to append cube of given range in cube_list
+INFO:root:here inside the loop that need to append cube of given range in cube_list
+INFO:root:here inside the loop that need to append cube of given range in cube_list
+INFO:root:here inside the loop that need to append cube of given range in cube_list
+INFO:root:here inside the loop that need to append cube of given range in cube_list
+INFO:root:here inside the loop that need to append cube of given range in cube_list
+INFO:root:here inside the loop that need to append cube of given range in cube_list
+INFO:root:here inside the loop that need to append cube of given range in cube_list
+INFO:root:here inside the loop that need to append cube of given range in cube_list
+INFO:root:here inside the loop that need to append cube of given range in cube_list
+INFO:root:result for the first thread [0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
+INFO:root:result for the second thread[0, 1, 8, 27, 64, 125, 216, 343, 512, 729]
